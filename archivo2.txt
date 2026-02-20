@@ -3,3 +3,5 @@ modificado
 estoy en la rama2
 estoy en la rama1
 
+
+modificado archivo para probar el stash
