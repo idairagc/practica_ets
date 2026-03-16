@@ -8,3 +8,5 @@ modificado archivo para probar el stash
 
 
 modificamos archivo 2 TAR02
+añado comentarios
+prueba amend
