@@ -5,3 +5,6 @@ estoy en la rama1
 
 
 modificado archivo para probar el stash
+
+
+modificamos archivo 2 TAR02
